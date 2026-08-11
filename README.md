@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/khushboothakur/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/khushboothakur/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/khushboothakur/Leetcode/tree/master/0620-not-boring-movies) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/khushboothakur/Leetcode/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/khushboothakur/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/khushboothakur/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
