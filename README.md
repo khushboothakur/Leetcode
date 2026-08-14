@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/khushboothakur/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/khushboothakur/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/khushboothakur/Leetcode/tree/master/0620-not-boring-movies) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/khushboothakur/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 ## Hash Table
 |  |
 | ------- |
