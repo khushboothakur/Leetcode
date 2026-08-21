@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/khushboothakur/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -42,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
 | [0876-middle-of-the-linked-list](https://github.com/khushboothakur/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushboothakur/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khushboothakur/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khushboothakur/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khushboothakur/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
