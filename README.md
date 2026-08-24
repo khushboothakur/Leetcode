@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/khushboothakur/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/khushboothakur/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/khushboothakur/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/khushboothakur/Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -50,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushboothakur/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/khushboothakur/Leetcode/tree/master/0169-majority-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/khushboothakur/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/khushboothakur/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/khushboothakur/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/khushboothakur/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushboothakur/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/khushboothakur/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
