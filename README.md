@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/khushboothakur/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/khushboothakur/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/khushboothakur/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/khushboothakur/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/khushboothakur/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/khushboothakur/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/khushboothakur/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/khushboothakur/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
