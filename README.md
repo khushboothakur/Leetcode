@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/khushboothakur/Leetcode/tree/master/0242-valid-anagram) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/khushboothakur/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -123,8 +124,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/khushboothakur/Leetcode/tree/master/0048-rotate-image) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/khushboothakur/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/khushboothakur/Leetcode/tree/master/0048-rotate-image) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/khushboothakur/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/khushboothakur/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
